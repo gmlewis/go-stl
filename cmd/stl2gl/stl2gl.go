@@ -7,7 +7,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/gmlewis/go-stl/stl"
+	"github.com/gmlewis/go-stl/v2/stl"
 )
 
 var (
